@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase": "^8.2.2",
     "vue": "^2.6.11",
+    "vuefire": "^3.0.0-alpha.2",
     "vuetify": "^2.2.11"
   },
   "devDependencies": {
